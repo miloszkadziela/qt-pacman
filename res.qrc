@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+		<file>assets/board.png</file>
+        <file>assets/power-up.png</file>
+		<file>assets/point.png</file>
+        <file>assets/ghost_cyan.png</file>
+        <file>assets/ghost_pink.png</file>
+		<file>assets/ghost_red.png</file>
+        <file>assets/ghost_orange.png</file>
+		<file>assets/eatable_ghost.png</file>
+        <file>assets/player_open.png</file>
+        <file>assets/player_close.png</file>
+    </qresource>
+</RCC>
